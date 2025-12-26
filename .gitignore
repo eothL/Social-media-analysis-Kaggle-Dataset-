@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment/config
+.env
+.env.*
+
+# Optional: editor/project files
+.idea/
+.vscode/
