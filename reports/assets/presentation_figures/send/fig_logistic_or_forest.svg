@@ -1,0 +1,112 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1060' height='602' viewBox='0 0 1060 602'>
+<rect width='100%' height='100%' fill='#ffffff' />
+<text x='530.0' y='28' text-anchor='middle' font-family='Georgia, serif' font-size='16' fill='#222'>Academic Impact Model (Full): Strongest Effects (OR, 95% CI)</text>
+<text x='250' y='66.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222' font-weight='bold'>Predictor</text>
+<text x='832' y='66.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222' font-weight='bold'>OR [95% CI]</text>
+<rect x='10' y='99.00' width='1040.00' height='34.00' fill='#fafafa' />
+<rect x='10' y='167.00' width='1040.00' height='34.00' fill='#fafafa' />
+<rect x='10' y='235.00' width='1040.00' height='34.00' fill='#fafafa' />
+<rect x='10' y='303.00' width='1040.00' height='34.00' fill='#fafafa' />
+<rect x='10' y='371.00' width='1040.00' height='34.00' fill='#fafafa' />
+<rect x='10' y='439.00' width='1040.00' height='34.00' fill='#fafafa' />
+<line x1='260.00' y1='490.00' x2='820.00' y2='490.00' stroke='#222' stroke-width='1' />
+<line x1='260.00' y1='490.00' x2='260.00' y2='82.00' stroke='#222' stroke-width='1' />
+<text x='540.00' y='536.00' text-anchor='middle' font-family='Georgia, serif' font-size='12' fill='#222'>Odds ratio (log scale)</text>
+<line x1='260.00' y1='82.00' x2='260.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='260.00' y1='490.00' x2='260.00' y2='496.00' stroke='#666' />
+<text x='260.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>0.01</text>
+<line x1='372.00' y1='82.00' x2='372.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='372.00' y1='490.00' x2='372.00' y2='496.00' stroke='#666' />
+<text x='372.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>0.1</text>
+<line x1='484.00' y1='82.00' x2='484.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='484.00' y1='490.00' x2='484.00' y2='496.00' stroke='#666' />
+<text x='484.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>1</text>
+<line x1='596.00' y1='82.00' x2='596.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='596.00' y1='490.00' x2='596.00' y2='496.00' stroke='#666' />
+<text x='596.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>10</text>
+<line x1='708.00' y1='82.00' x2='708.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='708.00' y1='490.00' x2='708.00' y2='496.00' stroke='#666' />
+<text x='708.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>100</text>
+<line x1='820.00' y1='82.00' x2='820.00' y2='490.00' stroke='#f0f0f0' />
+<line x1='820.00' y1='490.00' x2='820.00' y2='496.00' stroke='#666' />
+<text x='820.00' y='510.00' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>1000</text>
+<line x1='484.00' y1='82.00' x2='484.00' y2='490.00' stroke='#888' stroke-dasharray='4 4' />
+<text x='250' y='103.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Conflicts_Over_Social_Media</text>
+<line x1='576.97' y1='99.00' x2='772.38' y2='99.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='576.97' y1='96.00' x2='576.97' y2='102.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='772.38' y1='96.00' x2='772.38' y2='102.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='674.68' cy='99.00' r='4' fill='#b6403a' />
+<text x='832' y='103.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>50.41 [6.76, 375.72]</text>
+<text x='250' y='137.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Addicted_Score</text>
+<line x1='468.21' y1='133.00' x2='747.16' y2='133.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='468.21' y1='130.00' x2='468.21' y2='136.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='747.16' y1='130.00' x2='747.16' y2='136.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='607.68' cy='133.00' r='4' fill='#b6403a' />
+<text x='832' y='137.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>12.72 [0.72, 223.67]</text>
+<text x='250' y='171.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Mental_Health_Score</text>
+<line x1='267.54' y1='167.00' x2='555.49' y2='167.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='267.54' y1='164.00' x2='267.54' y2='170.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='555.49' y1='164.00' x2='555.49' y2='170.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='411.52' cy='167.00' r='4' fill='#b6403a' />
+<text x='832' y='171.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.23 [0.01, 4.35]</text>
+<text x='250' y='205.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=TikTok</text>
+<line x1='381.94' y1='201.00' x2='644.76' y2='201.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='381.94' y1='198.00' x2='381.94' y2='204.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='644.76' y1='198.00' x2='644.76' y2='204.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='513.35' cy='201.00' r='4' fill='#b6403a' />
+<text x='832' y='205.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>1.83 [0.12, 27.25]</text>
+<text x='250' y='239.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=Instagram</text>
+<line x1='407.21' y1='235.00' x2='609.73' y2='235.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='407.21' y1='232.00' x2='407.21' y2='238.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='609.73' y1='232.00' x2='609.73' y2='238.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='508.47' cy='235.00' r='4' fill='#b6403a' />
+<text x='832' y='239.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>1.65 [0.21, 13.26]</text>
+<text x='250' y='273.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Rel=Single</text>
+<line x1='280.01' y1='269.00' x2='730.99' y2='269.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='280.01' y1='266.00' x2='280.01' y2='272.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='730.99' y1='266.00' x2='730.99' y2='272.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='505.50' cy='269.00' r='4' fill='#b6403a' />
+<text x='832' y='273.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>1.56 [0.02, 160.44]</text>
+<text x='250' y='307.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Level=Undergraduate</text>
+<line x1='287.69' y1='303.00' x2='638.66' y2='303.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='287.69' y1='300.00' x2='287.69' y2='306.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='638.66' y1='300.00' x2='638.66' y2='306.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='463.18' cy='303.00' r='4' fill='#b6403a' />
+<text x='832' y='307.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.65 [0.02, 24.04]</text>
+<text x='250' y='341.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Avg_Daily_Usage_Hours</text>
+<line x1='393.71' y1='337.00' x2='607.56' y2='337.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='393.71' y1='334.00' x2='393.71' y2='340.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='607.56' y1='334.00' x2='607.56' y2='340.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='500.63' cy='337.00' r='4' fill='#b6403a' />
+<text x='832' y='341.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>1.41 [0.16, 12.68]</text>
+<text x='250' y='375.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Sleep_Hours_Per_Night</text>
+<line x1='380.15' y1='371.00' x2='557.24' y2='371.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='380.15' y1='368.00' x2='380.15' y2='374.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='557.24' y1='368.00' x2='557.24' y2='374.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='468.70' cy='371.00' r='4' fill='#b6403a' />
+<text x='832' y='375.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.73 [0.12, 4.51]</text>
+<text x='250' y='409.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Rel=In Relationship</text>
+<line x1='260.00' y1='405.00' x2='703.41' y2='405.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='260.00' y1='402.00' x2='260.00' y2='408.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='703.41' y1='402.00' x2='703.41' y2='408.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='472.16' cy='405.00' r='4' fill='#b6403a' />
+<text x='832' y='409.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.78 [0.01, 91.00]</text>
+<text x='250' y='443.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Age</text>
+<line x1='391.39' y1='439.00' x2='554.24' y2='439.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='391.39' y1='436.00' x2='391.39' y2='442.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='554.24' y1='436.00' x2='554.24' y2='442.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='472.81' cy='439.00' r='4' fill='#b6403a' />
+<text x='832' y='443.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.79 [0.15, 4.24]</text>
+<text x='250' y='477.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Gender=Male</text>
+<line x1='358.08' y1='473.00' x2='590.59' y2='473.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='358.08' y1='470.00' x2='358.08' y2='476.00' stroke='#1f4e5f' stroke-width='2' />
+<line x1='590.59' y1='470.00' x2='590.59' y2='476.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='474.34' cy='473.00' r='4' fill='#b6403a' />
+<text x='832' y='477.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.82 [0.08, 8.95]</text>
+<line x1='272.00' y1='560.00' x2='322.00' y2='560.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='297.00' cy='560.00' r='4' fill='#b6403a' />
+<text x='338.00' y='564.00' font-family='Georgia, serif' font-size='11' fill='#444'>Dot = odds ratio; line = 95% CI</text>
+<line x1='297.00' y1='570.00' x2='297.00' y2='586.00' stroke='#888' stroke-dasharray='4 4' />
+<text x='338.00' y='582.00' font-family='Georgia, serif' font-size='11' fill='#444'>Dashed line = OR=1 (no association)</text>
+<text x='260.00' y='602.00' font-family='Georgia, serif' font-size='11' fill='#444'>Numeric predictors are standardized (1 SD); categorical levels are vs a reference level.</text>
+</svg>

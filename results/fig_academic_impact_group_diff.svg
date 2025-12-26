@@ -1,0 +1,47 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='420' viewBox='0 0 760 420'>
+
+<rect width='100%' height='100%' fill='#ffffff' />
+<!-- Y-axis ticks + grid (0–10) -->
+<line x1='70' y1='350' x2='690' y2='350' stroke='#e0e0e0' stroke-width='1' />
+<line x1='70' y1='294' x2='690' y2='294' stroke='#e0e0e0' stroke-width='1' />
+<line x1='70' y1='238' x2='690' y2='238' stroke='#e0e0e0' stroke-width='1' />
+<line x1='70' y1='182' x2='690' y2='182' stroke='#e0e0e0' stroke-width='1' />
+<line x1='70' y1='126' x2='690' y2='126' stroke='#e0e0e0' stroke-width='1' />
+<line x1='70' y1='70' x2='690' y2='70' stroke='#e0e0e0' stroke-width='1' />
+<line x1='65' y1='350' x2='70' y2='350' stroke='#222' stroke-width='1' />
+<text x='60' y='354' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>0</text>
+<line x1='65' y1='294' x2='70' y2='294' stroke='#222' stroke-width='1' />
+<text x='60' y='298' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>2</text>
+<line x1='65' y1='238' x2='70' y2='238' stroke='#222' stroke-width='1' />
+<text x='60' y='242' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>4</text>
+<line x1='65' y1='182' x2='70' y2='182' stroke='#222' stroke-width='1' />
+<text x='60' y='186' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>6</text>
+<line x1='65' y1='126' x2='70' y2='126' stroke='#222' stroke-width='1' />
+<text x='60' y='130' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>8</text>
+<line x1='65' y1='70' x2='70' y2='70' stroke='#222' stroke-width='1' />
+<text x='60' y='74' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#444'>10</text>
+<line x1='70' y1='350' x2='690' y2='350' stroke='#222' stroke-width='1' />
+<line x1='70' y1='350' x2='70' y2='70' stroke='#222' stroke-width='1' />
+<rect x='101.00' y='243.48' width='62.00' height='106.52' fill='#2a9d8f' opacity='0.85' />
+<rect x='163.00' y='221.33' width='62.00' height='128.67' fill='#e76f51' opacity='0.85' />
+<rect x='225.00' y='142.11' width='62.00' height='207.89' fill='#264653' opacity='0.85' />
+<rect x='287.00' y='131.23' width='62.00' height='218.77' fill='#f4a261' opacity='0.85' />
+<text x='225.00' y='370' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#222'>No</text>
+<rect x='411.00' y='194.92' width='62.00' height='155.08' fill='#2a9d8f' opacity='0.85' />
+<rect x='473.00' y='141.08' width='62.00' height='208.92' fill='#e76f51' opacity='0.85' />
+<rect x='535.00' y='194.30' width='62.00' height='155.70' fill='#264653' opacity='0.85' />
+<rect x='597.00' y='172.38' width='62.00' height='177.62' fill='#f4a261' opacity='0.85' />
+<text x='535.00' y='370' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#222'>Yes</text>
+<!-- Legend (boxed, below title) -->
+<rect x='145' y='38' width='470' height='26' rx='6' ry='6' fill='#ffffff' stroke='#cfcfcf' stroke-width='1' />
+<rect x='160' y='45' width='10' height='10' fill='#2a9d8f' />
+<text x='176' y='54' font-family='Georgia, serif' font-size='11' fill='#222'>Usage</text>
+<rect x='231' y='45' width='10' height='10' fill='#e76f51' />
+<text x='247' y='54' font-family='Georgia, serif' font-size='11' fill='#222'>Addiction</text>
+<rect x='328' y='45' width='10' height='10' fill='#264653' />
+<text x='344' y='54' font-family='Georgia, serif' font-size='11' fill='#222'>Mental Health</text>
+<rect x='461' y='45' width='10' height='10' fill='#f4a261' />
+<text x='477' y='54' font-family='Georgia, serif' font-size='11' fill='#222'>Sleep</text>
+<text x='380.0' y='24' text-anchor='middle' font-family='Georgia, serif' font-size='16' fill='#222'>Academic Impact Groups: Average Outcomes</text>
+<text x='20' y='210.0' text-anchor='middle' font-family='Georgia, serif' font-size='12' fill='#222' transform='rotate(-90 20 210.0)'>Average value</text>
+</svg>

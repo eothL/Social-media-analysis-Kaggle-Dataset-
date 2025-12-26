@@ -1,0 +1,7 @@
+,Avg_Daily_Usage_Hours,Sleep_Hours_Per_Night,Mental_Health_Score,Addicted_Score,Age,Conflicts_Over_Social_Media
+Avg_Daily_Usage_Hours,1.0,-0.791,-0.801,0.832,-0.114,0.805
+Sleep_Hours_Per_Night,-0.791,1.0,0.707,-0.765,0.125,-0.677
+Mental_Health_Score,-0.801,0.707,1.0,-0.945,0.16,-0.894
+Addicted_Score,0.832,-0.765,-0.945,1.0,-0.166,0.934
+Age,-0.114,0.125,0.16,-0.166,1.0,-0.184
+Conflicts_Over_Social_Media,0.805,-0.677,-0.894,0.934,-0.184,1.0

@@ -1,0 +1,59 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='920' height='594' viewBox='0 0 920 594'>
+<rect width='100%' height='100%' fill='#ffffff' />
+<text x='460.0' y='28' text-anchor='middle' font-family='Georgia, serif' font-size='16' fill='#222'>Academic Impact Model (Full): Strongest Effects (OR, 95% CI)</text>
+<line x1='320' y1='500' x2='880' y2='500' stroke='#222' stroke-width='1' />
+<line x1='320' y1='500' x2='320' y2='60' stroke='#222' stroke-width='1' />
+<line x1='692.44' y1='60' x2='692.44' y2='500' stroke='#888' stroke-dasharray='4 4' />
+<text x='692.44' y='520' text-anchor='middle' font-family='Georgia, serif' font-size='11' fill='#444'>OR=1</text>
+<text x='310' y='64.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Level=High School</text>
+<line x1='322.68' y1='60.00' x2='877.32' y2='60.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='322.68' cy='60.00' r='4' fill='#b6403a' />
+<text x='886' y='64.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.00 [0.00, inf]</text>
+<text x='310' y='104.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Conflicts_Over_Social_Media</text>
+<line x1='322.68' y1='100.00' x2='877.32' y2='100.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='877.32' cy='100.00' r='4' fill='#b6403a' />
+<text x='886' y='104.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>515151309968650.81 [0.00, inf]</text>
+<text x='310' y='144.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Addicted_Score</text>
+<line x1='322.68' y1='140.00' x2='877.32' y2='140.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='877.32' cy='140.00' r='4' fill='#b6403a' />
+<text x='886' y='144.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>2555784238456.67 [0.00, inf]</text>
+<text x='310' y='184.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=LinkedIn</text>
+<line x1='322.68' y1='180.00' x2='877.32' y2='180.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='877.32' cy='180.00' r='4' fill='#b6403a' />
+<text x='886' y='184.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>42997381257.75 [0.00, inf]</text>
+<text x='310' y='224.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Rel=In Relationship</text>
+<line x1='322.68' y1='220.00' x2='877.32' y2='220.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='877.32' cy='220.00' r='4' fill='#b6403a' />
+<text x='886' y='224.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>13755169366.52 [0.00, inf]</text>
+<text x='310' y='264.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Rel=Single</text>
+<line x1='322.68' y1='260.00' x2='877.32' y2='260.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='877.32' cy='260.00' r='4' fill='#b6403a' />
+<text x='886' y='264.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>1750923679.49 [0.00, inf]</text>
+<text x='310' y='304.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=WhatsApp</text>
+<line x1='322.68' y1='300.00' x2='877.32' y2='300.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='553.70' cy='300.00' r='4' fill='#b6403a' />
+<text x='886' y='304.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.00 [0.00, inf]</text>
+<text x='310' y='344.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Avg_Daily_Usage_Hours</text>
+<line x1='322.68' y1='340.00' x2='877.32' y2='340.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='560.56' cy='340.00' r='4' fill='#b6403a' />
+<text x='886' y='344.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.00 [0.00, inf]</text>
+<text x='310' y='384.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Mental_Health_Score</text>
+<line x1='322.68' y1='380.00' x2='877.32' y2='380.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='570.16' cy='380.00' r='4' fill='#b6403a' />
+<text x='886' y='384.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.00 [0.00, inf]</text>
+<text x='310' y='424.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=Twitter</text>
+<line x1='322.68' y1='420.00' x2='877.32' y2='420.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='811.51' cy='420.00' r='4' fill='#b6403a' />
+<text x='886' y='424.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>7314.93 [0.00, inf]</text>
+<text x='310' y='464.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Level=Undergraduate</text>
+<line x1='322.68' y1='460.00' x2='877.32' y2='460.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='585.99' cy='460.00' r='4' fill='#b6403a' />
+<text x='886' y='464.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>0.00 [0.00, inf]</text>
+<text x='310' y='504.00' text-anchor='end' font-family='Georgia, serif' font-size='11' fill='#222'>Platform=Instagram</text>
+<line x1='322.68' y1='500.00' x2='877.32' y2='500.00' stroke='#1f4e5f' stroke-width='2' />
+<circle cx='766.42' cy='500.00' r='4' fill='#b6403a' />
+<text x='886' y='504.00' text-anchor='start' font-family='Georgia, serif' font-size='11' fill='#222'>251.68 [0.00, inf]</text>
+<text x='320' y='524.00' font-family='Georgia, serif' font-size='11' fill='#444'>Dots show odds ratios (exp(beta)); bars show 95% CI.</text>
+<text x='320' y='540.00' font-family='Georgia, serif' font-size='11' fill='#444'>Vertical line at OR=1 indicates no effect.</text>
+<text x='320' y='556.00' font-family='Georgia, serif' font-size='11' fill='#444'>Numeric predictors are standardized (1 SD); categories are vs reference.</text>
+</svg>

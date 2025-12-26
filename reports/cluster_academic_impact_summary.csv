@@ -1,0 +1,5 @@
+cluster,cluster_id,n,yes,yes_rate
+Low-Usage Mature Users,3,131,5,0.0382
+Balanced Users,1,142,16,0.1127
+Moderate-Risk Users,0,244,244,1.0000
+High-Risk Addicted Users,2,188,188,1.0000
